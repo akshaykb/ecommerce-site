@@ -1,10 +1,4 @@
-.logo
-{
-	width: 100px;
-	height: auto;
-	border-radius: 20px;
-	border: 5px solid #286090;
-}
+
 .drop
 {
 	margin-top: 1px;
@@ -48,10 +42,15 @@ margin-top: 25px;
 .form-group
 {
 	text-align: center;
+	margin-top: 70px;
 }
 .form-control
 {
 	width: 200px;
 	display: inline-block;
 	
+}
+.carts
+{
+	margin-top: 8px;
 }
