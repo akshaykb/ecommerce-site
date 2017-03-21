@@ -1,0 +1,57 @@
+.logo
+{
+	width: 100px;
+	height: auto;
+	border-radius: 20px;
+	border: 5px solid #286090;
+}
+.drop
+{
+	margin-top: 1px;
+}
+.product
+{
+	text-align: center;
+	
+}
+.browns
+{
+	background-color: #fafafa;
+}
+.btn-danger
+{
+	margin-top: 10px;
+
+}
+.product-image
+{
+	border-radius: 10px;
+}
+.name
+{
+	margin-top: 5px;
+}
+h4
+{
+margin-top: 25px;
+}
+.card
+{
+	    width: 80%;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 1px 2px 2px rgba(0,0,0,.15);
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+.form-group
+{
+	text-align: center;
+}
+.form-control
+{
+	width: 200px;
+	display: inline-block;
+	
+}
